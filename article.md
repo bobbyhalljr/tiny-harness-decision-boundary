@@ -110,7 +110,7 @@ The [MCP tools specification](https://modelcontextprotocol.io/specification/2025
 
 This example deliberately stops at `ask`. It does not implement an approval service. A real refund approval should cover the exact action, identity, amount, and relevant expiry, with replay handled. Module 3 develops that boundary further.
 
-**Runnable example:** [REPOSITORY_URL]
+**Runnable example:** https://github.com/bobbyhalljr/tiny-harness-decision-boundary
 
 ## Count the loop, including the boring turns
 

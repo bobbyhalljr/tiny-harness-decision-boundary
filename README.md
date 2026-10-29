@@ -36,8 +36,8 @@ A step budget cannot preempt a hanging model or tool call. A failed tool may alr
 
 Module 1 and its full video are free. Buyers get modules 2–8 and their full narrated videos through their course repository access.
 
-## Release status
+## Repository
 
-Prepared locally for review. Proposed public repository: `bobbyhalljr/tiny-harness-decision-boundary`. No new repository has been published by this draft request.
+https://github.com/bobbyhalljr/tiny-harness-decision-boundary
 
 MIT license. Images and article are included for the course publication package.
